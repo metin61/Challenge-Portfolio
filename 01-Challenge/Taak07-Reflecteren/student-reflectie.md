@@ -2,18 +2,18 @@
 
 ### Wat ging er goed tijdens deze Challenge?
 - voorbereiding 
-- abeeldingen toevoegen
+- in het algemeen ging het wel goed
 - 
 
 ### Wat kon er beter?
 - Tijd inschatten 
-- Werk niet onderschatten
-- 
+- Het werk niet onderschatten
+- Plannen
 
 ### Van wat er beter kon: hoe ga je dit de volgende anders doen?
 - vanuit meer tijd aan te besteden dan het lijkt 
-- het werk niet te onderschatten
-- 
+- het werk niet te onderschatten en op een professionele manier te werk gaan.
+- Beter proberen te plannen en realistisch blijven.
 
 ### Wat vond je van deze Challenge? 
 Met deze challenge heb ik geleerd hoe je je kunt voorbereiden op het werk door een boomstructuur en wireframe te maken, waardoor

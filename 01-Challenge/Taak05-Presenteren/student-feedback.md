@@ -7,4 +7,4 @@
 
 - Meer ruimte tussen texten en afbeeldingen.
 - spelfouten verbeteren.
-- 
+- koptexten mag groter.
