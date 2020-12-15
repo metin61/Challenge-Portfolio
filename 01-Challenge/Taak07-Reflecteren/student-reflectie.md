@@ -11,7 +11,7 @@
 - Plannen
 
 ### Van wat er beter kon: hoe ga je dit de volgende anders doen?
-- vanuit meer tijd aan te besteden dan het lijkt 
+- meer tijd aan te besteden dan het lijkt 
 - het werk niet te onderschatten en op een professionele manier te werk gaan.
 - Beter proberen te plannen en realistisch blijven.
 

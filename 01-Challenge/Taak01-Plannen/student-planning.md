@@ -10,17 +10,44 @@
 
 ## Planning tabel
 
-| Stap        | Taak                                           | Verwachte tijdsduur | Status |
-| ----------- | ---------------------------------------------- | ------------------- | ------ |
-| Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     | 03:00 u             | Bezig  |
-| ...         | Styling van elementen bepalen                  | 04:00 u             | Bezig  |
-| Realiseren  | Bestanden aanmaken                             | 02:00 u             | Bezig  |
-| ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              | 01:30 u             | Bezig  |
-| ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:30 u             | Bezig  |
-| ...         |                                                |                     |        |
-| Presenteren |                                                | 00:45 u             |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    | 00:30 u             | Bezig  |
+| Stap        | Taak                                                    | Verwachte tijdsduur | Status |
+| ----------- | ----------------------------------------------          | ------------------- | ------ |
+| Planning    | Planning maken                                          | 01:00 u - 02:00     | Klaar  |
+| Ontwerpen   | Boomstructuur Hoeveel pagina's?                         | 00:15 u             | Klaar  |
+| ...         | Boomstructuur welke inhoud komt er op de pagina's?      | 01:00 u             | Klaar  |
+| ...         | Boomstructuur wat/welke voor technieken gebruiken?      | 00:45 u             | Klaar| |
+| ...         | Wireframe Welke kleuren?                                | 00:10 u             | Klaar| |
+| ...         | Wireframe welke/hoeveel afbeeldingen?                   | 00:20 u             | Klaar| |
+| ...         | Wireframe welke structuur?                              | 00:30 u             | Klaar| |
+| ...         | Wireframe welke stijl?                                  | 00:20 u             | Klaar| |
+| Realiseren  |                                                         |                     |        |        
+| ...         | Welke eisen/technieken moet je gebruiken?               | 00:20 u             | Klaar  |      
+| ...         | Pagina about html                                       | 03:00 u             | Klaar  |       
+| ...         | Pagina about css                                        | 00:45 u             | Klaar  |      
+| ...         | Pagina about js                                         | 01:00 u             | Klaar  |      
+| ...         | Pagina interesses html                                  | 00:30 u             | Klaar  |      
+| ...         | Pagina interesses css                                   | 00:45 u             | Klaar  |      
+| ...         | Pagina projecten html                                   | 00:45 u             | Klaar  |      
+| ...         | Pagina projecten css                                    | 00:20 u             | Klaar  |     
+| ...         | Pagina contact html                                     | 00:30 u             | Klaar  |      
+| ...         | Pagina contact css                                      | 00:20 u             | Klaar  |      
+| ...         | Is het volgens de voorbereiding/eisen gegaan?(check)    | 00:20 u             | Klaar  |     
+| Testen      |                                                         | 00:00 u             |        | 
+| ...         | zijn alle eisen gebruikt?                               | 00:15 u             | Klaar  |     
+| ...         | werkt alles zijn er problemen?                          | 00:15 u             | Klaar  |     
+| ...         | heb je wat vergeten?                                    | 00:15 u             | Klaar  |           
+| ...         |                                                         |                     |        |
+| Presentere  | Klasgenoot presenteren                                  | 00:20 u             | Bezig  |
+| ...         | Verbeter punten noteren                                 | 00:20 u             | Klaar  |    
+| ...         |                                                         |                     |        |
+| Verbeteren  |                                                         |                     |        |
+| ...         | zijn alle problemen opgelost?                           |  01:00 u - 03:00 u  | Klaar  |     
+| ...         | zijn er verbeter punten?                                |  00:20 u            | Klaar  |    
+| ...         |                                                         |                     |        |
+| ...         |                                                         |                     |        |
+| Reflecteren |                                                         |                     |        |
+| ...         | wat ging er goed ?                                      | 00:20 u             | Klaar  |     
+| ...         | wat kon er beter ?                                      | 00:20 u             | Klaar  |    
+| ...         | conclusie                                               | 00:20 u             | Klaar  |   
+
+
