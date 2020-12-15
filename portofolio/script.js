@@ -13,10 +13,10 @@ document.querySelector("#kopjenaam").innerHTML = "Welkom" + " " + bezoeker.voorn
 
 
 if(leeftijd = "18") {
-    document.querySelector(".midden").style.backgroundColor = 'green';
+    document.querySelector(".midden").style.backgroundColor = 'green'
 }
 
 if(leeftijd != "18") {
-    document.querySelector(".midden").style.backgroundColor = 'red';
+    document.querySelector(".midden").style.backgroundColor = 'red'
 }
 console.log();
