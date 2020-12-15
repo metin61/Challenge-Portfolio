@@ -4,4 +4,4 @@ Student : `Metin Celik`
 
 Klas    : `LCTAOO0D`
 
-Link    : [https://metin61.github.io/Challenge-Portfolio/portofolio/](github_username.github.io)
+Link    : [github_username.github.io](https://metin61.github.io/Challenge-Portoflio/portofolio/)
